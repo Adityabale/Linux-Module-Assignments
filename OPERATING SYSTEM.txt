@@ -1,0 +1,8 @@
+OPERATING SYSTEM
+
+What is OS ?
+An operating system (OS) is the software that manages all the hardware and software resources of a computer. Think of it as the brain of the computer, acting as a mediator between you (the user) and the computer's hardware. Without an OS, you wouldn't be able to run programs, save files, or even see anything on your screen.
+
+What is Linux ?
+Linux is a family of open-source, Unix-like operating systems. It's not a single product like Windows or macOS, but rather a core component—the Linux kernel—that is the foundation for a wide range of operating systems. These full operating systems, which bundle the Linux kernel with other software and utilities, are known as Linux distributions (or "distros").
+
